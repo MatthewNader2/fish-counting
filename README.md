@@ -27,6 +27,8 @@ This project involves processing video data to count the number of fish in each 
   - Used Azure Custom Vision for additional training and prediction.
 
 
+	![Fish Count Example 10](data/fish_count_example_10.png)
+	![Fish Count Example 10](data/fish_count_example_13.png)
 
 3. **Frame Extraction and Counting**:
 
