@@ -75,7 +75,7 @@ This project involves processing video data to count the number of fish in each 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MatthewNader2/Fish-Counting-Project.git
+   git clone https://github.com/MatthewNader2/fish-counting.git
    cd fish-counting-project
    ```
 
